@@ -67,7 +67,7 @@ plt.show()
 
 # GRAPH 
 
-![graph 2](https://github.com/user-attachments/assets/e1fdb328-1e6c-4f17-a662-8bb206875a21)
+![ask](https://github.com/user-attachments/assets/ce70d1bf-a244-4edb-8aa2-4e0f3c8fadc6)
 
 
 
